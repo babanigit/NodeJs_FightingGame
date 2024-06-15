@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_fighting_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/dist/index.js",
+    "serve": "npm run serve --prefix ./js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
